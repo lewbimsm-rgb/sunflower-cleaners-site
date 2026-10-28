@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sunflower-cleaners-lewbimsm-rgbs-projects.vercel.app/sitemap.xml
+Sitemap: https://sunflower-cleaners.vercel.app/sitemap.xml
