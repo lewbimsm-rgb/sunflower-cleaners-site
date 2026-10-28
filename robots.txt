@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sunflower-cleaners.vercel.app/sitemap.xml
+Sitemap: https://sunflowercleanershenderson.com/sitemap.xml
